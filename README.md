@@ -2,9 +2,7 @@
 
 Welcome to my SQL practice repository! This project contains a collection of SQL scripts I’ve written as part of my learning and revision process. Each file focuses on a specific SQL concept and its potential use cases.
 
-## Folder Structure & File Overview
-
-Each `.sql` file in this repository corresponds to a particular SQL topic or functionality:
+## File Overview
 
 | File Name                             | Description |
 |--------------------------------------|-------------|
